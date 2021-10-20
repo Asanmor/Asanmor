@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Asanmor
-- 👀 I’m interested in learn about coding with python
-- 🌱 I’m currently learning pandas, openpyxl
-- 📫 How to reach me alex.santander.mo@gmail.com
+
